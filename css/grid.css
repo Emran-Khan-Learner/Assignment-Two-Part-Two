@@ -15,7 +15,6 @@ body{
 	width: 1200px;
 	padding: 86.5px 0px;
 	overflow: hidden;
-	display: inline-block;
 }
 .line-one{
 	background-color: #whitesmoke;
@@ -51,19 +50,23 @@ body{
 	grid-column-gap: 4px;
 }
 p{
-	height: 135px;
+	/*height: 135px;*/
 	font-size: 1.3em;
     padding: 60px 10px;
 }
 .line-one div{
 	background-color: #1286ff;
+	height: 135px;
 }
 .line-two div{	
 	background-color: #1286ff;
+	height: 135px;
 }
 .line-three div{	
 	background-color: #1286ff;
+	height: 135px;
 }
 .line-four div{	
 	background-color: #1286ff;
+	height: 135px;
 }
